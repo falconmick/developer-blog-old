@@ -1,0 +1,17 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A zero opinion MDX theme with easy to override defaults, perfect to compose into your thang",
+  "devDependencies": {
+    "gatsby": "^2.13.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.0.21",
+    "@mdx-js/react": "^1.0.21",
+    "gatsby-mdx": "^0.6.3"
+  }
+}
