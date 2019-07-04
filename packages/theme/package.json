@@ -6,12 +6,16 @@
   "description": "A zero opinion MDX theme with easy to override defaults, perfect to compose into your thang",
   "devDependencies": {
     "gatsby": "^2.13.3",
+    "gatsby-plugin-page-creator": "^2.1.2",
+    "gatsby-source-filesystem": "^2.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.0.21",
     "@mdx-js/react": "^1.0.21",
-    "gatsby-mdx": "^0.6.3"
+    "gatsby-mdx": "^0.6.3",
+    "gatsby-source-filesystem": "^2.1.2",
+    "gatsby-plugin-page-creator": "^2.1.2"
   }
 }
